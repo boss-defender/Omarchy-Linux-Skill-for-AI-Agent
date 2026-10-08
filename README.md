@@ -1,6 +1,6 @@
 # Omarchy-Linux-Skill-for-AI-Agent
 
-**Tell your model to install this skill and copy this folder to AI agent Skills Directory so that next time , whenver you  use /omarchy and AI agent work accordingly**
+**Tell your model to install this skill and copy this folder to AI agent/claude/codex/opencode  Skills Directory so that next time , whenver you  use /omarchy and AI agent work accordingly**
 
 **Update date:** 8 Oct, 2026
 
